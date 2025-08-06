@@ -1,0 +1,9 @@
+{
+  "name": "meshengine",
+  "version": "1.0.0",
+  "dependencies": [
+    "glfw3",
+    "glm"
+  ],
+  "builtin-baseline": "2023-12-14"
+} 
